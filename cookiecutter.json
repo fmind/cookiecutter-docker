@@ -1,0 +1,4 @@
+{
+    "name": "Dockerfile",
+    "base": "ubuntu:18.04"
+}
